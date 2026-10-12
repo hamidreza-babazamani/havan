@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="haven" x1="12" y1="10" x2="52" y2="54" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B5A7FF"/>
+      <stop offset="1" stop-color="#7564DE"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="19" fill="#15141C"/>
+  <path d="M13 20.5A7.5 7.5 0 0 1 20.5 13h23a7.5 7.5 0 0 1 7.5 7.5v17a7.5 7.5 0 0 1-7.5 7.5H29L16 53V45h-1a2 2 0 0 1-2-2V20.5Z" fill="url(#haven)"/>
+  <path d="M23 26h18M23 33h13" stroke="#fff" stroke-linecap="round" stroke-width="3.5"/>
+</svg>
